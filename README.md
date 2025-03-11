@@ -52,6 +52,8 @@ Creates aggregated views for reporting and analytics.
 
 Enables faster insights and decision-making.
 
+![image](documents/data architecture.png)
+
 ### 📜 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
