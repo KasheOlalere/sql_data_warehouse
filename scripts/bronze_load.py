@@ -11,7 +11,7 @@ schema = "bronze"
 
 engine = create_engine(f"postgresql+psycopg2://{user}:{password}@{host}:{port}/{database}")
 
-folder_path = "C:/Users/abdul/Desktop/Warehouse/datasets/source_crm"
+folder_path = "/datasets/source_crm"
 
 names = []
 # Read CSV files in the crm folder  
@@ -28,7 +28,7 @@ for file in os.listdir(folder_path):
 
         print(f"crm file: {file} inserted into {schema}.{table_name} table successfully!")
 
-folder_path = "C:/Users/abdul/Desktop/Warehouse/datasets/source_erp"
+folder_path = "/datasets/source_erp"
 
 # Read CSV files in the erp folder  
 for file in os.listdir(folder_path):
