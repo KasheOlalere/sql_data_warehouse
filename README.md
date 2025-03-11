@@ -1,9 +1,4 @@
-# sql_data_warehouse
-Building a data warehouse with postgresql to facilitate data analytics 
-
-### 📊 Data Analytics Pipeline with PostgreSQL & Python
-
-### 🚀 Project Overview
+## SQL Data Warehousing Project
 
 This project displays an end to end data analytics project, from building a data warehouse to generating actionable insights using Python and PostgreSQL. The pipeline:
 
@@ -33,7 +28,7 @@ Creates optimized analytical views in the Gold schema.
 
 This project follows the Medallion Schema, a layered approach to data organization that improves data quality, performance, and accessibility. The three layers are:
 
-###🥉 Bronze Schema (Raw Data Storage)
+#### 🥉 Bronze Schema (Raw Data Storage)
 
 Stores unprocessed data directly from source_crm and source_erp.
 
@@ -41,7 +36,7 @@ Acts as a landing zone for all incoming data.
 
 Data remains in its original format, including duplicates and inconsistencies.
 
-###🥈 Silver Schema (Cleaned & Processed Data)
+#### 🥈 Silver Schema (Cleaned & Processed Data)
 
 Data is transformed, deduplicated, and standardized.
 
@@ -49,7 +44,7 @@ Ensures consistent naming conventions and corrects errors.
 
 Acts as an intermediate layer for structured querying.
 
-###🥇 Gold Schema (Optimized for Analytics)
+#### 🥇 Gold Schema (Optimized for Analytics)
 
 Stores business-ready data in an easy-to-query format.
 
@@ -57,11 +52,11 @@ Creates aggregated views for reporting and analytics.
 
 Enables faster insights and decision-making.
 
-###📜 License
+### 📜 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-###📩 Contact
+### 📩 Contact
 
 For questions, reach out via your-email@example.com or GitHub Issues.
 
