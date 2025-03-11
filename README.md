@@ -58,7 +58,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ### 📩 Contact
 
-For questions, reach out via your-email@example.com or GitHub Issues.
+For questions, reach out via abdullaholalere.k@gmail.com or GitHub Issues.
 
 
 
