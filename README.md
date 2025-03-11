@@ -52,7 +52,7 @@ Creates aggregated views for reporting and analytics.
 
 Enables faster insights and decision-making.
 
-![image](documents/data architecture.png)
+![alt text](https://github.com/KasheOlalere/sql_data_warehouse/blob/main/documents/data%20architecture.png)?raw=true)
 
 ### 📜 License
 
